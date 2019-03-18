@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Plugin", "Plugin\Plugin.csproj", "{4F928388-288E-43D5-AE92-2E988313EFE5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountChars", "CountChar\CountChars.csproj", "{F4ACF39F-42F1-4E15-8C92-FE1ADEFA4CB8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MainConsoleApp", "MainConsoleApp\MainConsoleApp.csproj", "{BD528334-60A0-4732-88BD-8E6EFAFC2339}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F928388-288E-43D5-AE92-2E988313EFE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F928388-288E-43D5-AE92-2E988313EFE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F928388-288E-43D5-AE92-2E988313EFE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F928388-288E-43D5-AE92-2E988313EFE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4ACF39F-42F1-4E15-8C92-FE1ADEFA4CB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4ACF39F-42F1-4E15-8C92-FE1ADEFA4CB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4ACF39F-42F1-4E15-8C92-FE1ADEFA4CB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4ACF39F-42F1-4E15-8C92-FE1ADEFA4CB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD528334-60A0-4732-88BD-8E6EFAFC2339}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD528334-60A0-4732-88BD-8E6EFAFC2339}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD528334-60A0-4732-88BD-8E6EFAFC2339}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD528334-60A0-4732-88BD-8E6EFAFC2339}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {808DEA81-3F4B-408F-9FD3-53277140D2C3}
+	EndGlobalSection
+EndGlobal

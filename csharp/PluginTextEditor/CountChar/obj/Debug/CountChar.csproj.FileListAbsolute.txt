@@ -1,0 +1,8 @@
+C:\cygwin64\home\tomohiro-odan\sample\SampleOfPlaginSoftware\csharp\PluginTextEditor\CountChar\obj\Debug\CountChar.csproj.CoreCompileInputs.cache
+C:\cygwin64\home\tomohiro-odan\sample\SampleOfPlaginSoftware\csharp\PluginTextEditor\CountChar\bin\Debug\CountChar.dll
+C:\cygwin64\home\tomohiro-odan\sample\SampleOfPlaginSoftware\csharp\PluginTextEditor\CountChar\bin\Debug\CountChar.pdb
+C:\cygwin64\home\tomohiro-odan\sample\SampleOfPlaginSoftware\csharp\PluginTextEditor\CountChar\bin\Debug\Plugin.dll
+C:\cygwin64\home\tomohiro-odan\sample\SampleOfPlaginSoftware\csharp\PluginTextEditor\CountChar\bin\Debug\Plugin.pdb
+C:\cygwin64\home\tomohiro-odan\sample\SampleOfPlaginSoftware\csharp\PluginTextEditor\CountChar\obj\Debug\CountChar.csproj.CopyComplete
+C:\cygwin64\home\tomohiro-odan\sample\SampleOfPlaginSoftware\csharp\PluginTextEditor\CountChar\obj\Debug\CountChar.dll
+C:\cygwin64\home\tomohiro-odan\sample\SampleOfPlaginSoftware\csharp\PluginTextEditor\CountChar\obj\Debug\CountChar.pdb

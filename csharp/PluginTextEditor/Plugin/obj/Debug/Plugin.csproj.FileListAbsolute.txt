@@ -1,0 +1,5 @@
+C:\cygwin64\home\tomohiro-odan\sample\SampleOfPlaginSoftware\csharp\PluginTextEditor\Plugin\bin\Debug\Plugin.dll
+C:\cygwin64\home\tomohiro-odan\sample\SampleOfPlaginSoftware\csharp\PluginTextEditor\Plugin\bin\Debug\Plugin.pdb
+C:\cygwin64\home\tomohiro-odan\sample\SampleOfPlaginSoftware\csharp\PluginTextEditor\Plugin\obj\Debug\Plugin.csproj.CoreCompileInputs.cache
+C:\cygwin64\home\tomohiro-odan\sample\SampleOfPlaginSoftware\csharp\PluginTextEditor\Plugin\obj\Debug\Plugin.dll
+C:\cygwin64\home\tomohiro-odan\sample\SampleOfPlaginSoftware\csharp\PluginTextEditor\Plugin\obj\Debug\Plugin.pdb
