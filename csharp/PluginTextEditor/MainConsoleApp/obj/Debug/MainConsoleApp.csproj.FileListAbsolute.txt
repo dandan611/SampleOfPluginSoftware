@@ -8,3 +8,13 @@ C:\cygwin64\home\tomohiro-odan\sample\SampleOfPlaginSoftware\csharp\PluginTextEd
 C:\cygwin64\home\tomohiro-odan\sample\SampleOfPlaginSoftware\csharp\PluginTextEditor\MainConsoleApp\obj\Debug\MainConsoleApp.csproj.CopyComplete
 C:\cygwin64\home\tomohiro-odan\sample\SampleOfPlaginSoftware\csharp\PluginTextEditor\MainConsoleApp\obj\Debug\MainConsoleApp.exe
 C:\cygwin64\home\tomohiro-odan\sample\SampleOfPlaginSoftware\csharp\PluginTextEditor\MainConsoleApp\obj\Debug\MainConsoleApp.pdb
+C:\cygwin64\home\tomohiro-odan\sample\SampleOfPluginSoftware\csharp\PluginTextEditor\MainConsoleApp\bin\Debug\MainConsoleApp.exe.config
+C:\cygwin64\home\tomohiro-odan\sample\SampleOfPluginSoftware\csharp\PluginTextEditor\MainConsoleApp\bin\Debug\MainConsoleApp.exe
+C:\cygwin64\home\tomohiro-odan\sample\SampleOfPluginSoftware\csharp\PluginTextEditor\MainConsoleApp\bin\Debug\MainConsoleApp.pdb
+C:\cygwin64\home\tomohiro-odan\sample\SampleOfPluginSoftware\csharp\PluginTextEditor\MainConsoleApp\bin\Debug\Plugin.dll
+C:\cygwin64\home\tomohiro-odan\sample\SampleOfPluginSoftware\csharp\PluginTextEditor\MainConsoleApp\bin\Debug\Plugin.pdb
+C:\cygwin64\home\tomohiro-odan\sample\SampleOfPluginSoftware\csharp\PluginTextEditor\MainConsoleApp\obj\Debug\MainConsoleApp.csprojAssemblyReference.cache
+C:\cygwin64\home\tomohiro-odan\sample\SampleOfPluginSoftware\csharp\PluginTextEditor\MainConsoleApp\obj\Debug\MainConsoleApp.csproj.CoreCompileInputs.cache
+C:\cygwin64\home\tomohiro-odan\sample\SampleOfPluginSoftware\csharp\PluginTextEditor\MainConsoleApp\obj\Debug\MainConsoleApp.csproj.CopyComplete
+C:\cygwin64\home\tomohiro-odan\sample\SampleOfPluginSoftware\csharp\PluginTextEditor\MainConsoleApp\obj\Debug\MainConsoleApp.exe
+C:\cygwin64\home\tomohiro-odan\sample\SampleOfPluginSoftware\csharp\PluginTextEditor\MainConsoleApp\obj\Debug\MainConsoleApp.pdb
