@@ -18,9 +18,9 @@
 * 定義されたインターフェースを実装したプラグインをdllで作成する
 * プラグインを読み込んで利用するホストアプリケーションを作成する
 
-<img src="/csharp/PluginTextEditor/Doc/Plugin System(C#).png" width="500">
+<img src="./csharp/PluginTextEditor/Doc/PluginSystem(CS).png" width="500">
 
-<img src="/csharp/PluginTextEditor/Doc/Plugin System(C#)_deployment.png" width="500">
+<img src="./csharp/PluginTextEditor/Doc/PluginSystem(CS)_deployment.png" width="500">
 
 ### 参考記事
 
