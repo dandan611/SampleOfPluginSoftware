@@ -48,5 +48,13 @@
   * https://docs.microsoft.com/ja-jp/visualstudio/extensibility/starting-to-develop-visual-studio-extensions?view=vs-2017
   * https://gihyo.jp/dev/serial/01/eclipse-plugin/0001
 * 記載していないが、Pythonなどのインターフェースが存在しない言語では多重継承を利用して実装するみたい
+* デスクトップアプリの場合、基本的なUIの構成やデザインは現状変わっていない
+  * メニュー
+  * ツールバー
+  * ツールウィンドウ
+
+## ToDo
+
+* それぞれの典型的なIDEの実装サンプル(VisualStudio,Eclipse)を作成する
 
 以上。
