@@ -44,7 +44,7 @@
 
 ## 個人的な所感
 
-* C#やJavaなどで実装する場合はどういうプラグインを作るれるようにするかを含めたインターフェースの定義が必須になる
+* C#やJavaなどで実装する場合はどういうプラグインを作れるようにするかを含めたインターフェースの定義が必須になる
 * IDEのようなものを実現したいならVisualStudioやEclipseのプラグイン開発のインターフェースを参考にすると良さそう
   * https://docs.microsoft.com/ja-jp/visualstudio/extensibility/starting-to-develop-visual-studio-extensions?view=vs-2017
   * https://gihyo.jp/dev/serial/01/eclipse-plugin/0001
