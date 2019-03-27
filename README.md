@@ -34,9 +34,9 @@
 * Jarファイルには、プラグインクラス名を記したマニフェストファイルを作成する
 * プラグインを読み込んで利用するホストアプリケーションを作成する
 
-<img src="./java/Doc/Class_Plugin System(java).png" width="500">
+<img src="./java/SamplePluginAppPlugin/Doc/Class_Plugin System(java).png" width="500">
 
-<img src="./java/Doc/Deployment_Plugin System(java).png" width="500">
+<img src="./java/SamplePluginAppPlugin/Doc/Deployment_Plugin System(java).png" width="500">
 
 ### 参考記事
 
